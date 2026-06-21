@@ -8,9 +8,9 @@ A Denial of Service (DoS) vulnerability exists in GoPhish v0.12.1 due to imprope
 
 ## Product Information
 
-**Vendor:** GoPhish  
+**Vendor:** [GoPhish](https://getgophish.com/)    
 **Product:** [GoPhish](https://github.com/gophish/gophish)  
-**Affected Versions:** v0.12.1  
+**Affected Versions:** [v0.12.1](https://github.com/gophish/gophish/releases/tag/v0.12.1)    
 **CVSS v3.1:** `CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H` (High)  
 
 ## Technical Details
