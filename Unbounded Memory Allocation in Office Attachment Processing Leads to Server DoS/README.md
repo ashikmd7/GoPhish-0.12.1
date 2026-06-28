@@ -1,4 +1,4 @@
-# Uncontrolled Resource Consumption in ApplyTemplate() in GoPhish v0.12.1 Allows Attackers to Crash the Server (Denial of Service) via an Crafted Malicious Office Document
+# CVE-2026-39904: Uncontrolled Resource Consumption in ApplyTemplate() in GoPhish v0.12.1 Allows Attackers to Crash the Server (Denial of Service) via an Crafted Malicious Office Document
 
 ![](https://github.com/ashikmd7/GoPhish-0.12.1/blob/main/Unbounded%20Memory%20Allocation%20in%20Office%20Attachment%20Processing%20Leads%20to%20Server%20DoS/%5B7%5D%20After%20Upload%202.png)
 
